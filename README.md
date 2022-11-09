@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nahom
-- 👀 I’m interested in Machine Learning, Data Intensive Applications and Backend Development
+- 👀 I’m interested in Data Science, Data Intensive Applications and Backend Development
 - 🌱 I’m currently learning Machine Learning and Cloud Computing
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me senaynahom00@gmail.com
