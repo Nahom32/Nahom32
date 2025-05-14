@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@nahomsenay3" target="blank"><img src="https://img.shields.io/twitter/follow/@nahomsenay3?logo=twitter&style=for-the-badge" alt="@nahomsenay3" /></a> </p>
 
-- 🔭 I’m currently working on **Symbolic AI and Genetic Programming**
+- 🔭 I’m currently working on **Symbolic AI and Affective Computing**
 
 - 👯 I’m looking to collaborate on **AI projects**
 
