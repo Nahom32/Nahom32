@@ -27,7 +27,16 @@ AI/ML Engineer from Ethiopia, focused on bridging **Symbolic AI** with **Deep Le
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| Coming Soon | Exciting AI/ML project in the works | — |
+| [wheat-disease-classification](https://github.com/Nahom32/wheat-disease-classification) | Wheat disease classification using DNNs with VIS-NIR spectroscopy and RGB images | Python, PyTorch, Jupyter Notebook |
+| [Cow-Anomaly-Detection](https://github.com/Nahom32/Cow-Anomaly-Detection) | Video anomaly detection for cows based on public datasets using VAEs | Python, PyTorch, Jupyter Notebook |
+| [Distributed-CNN](https://github.com/Nahom32/Distributed-CNN) | Parallelized CNN training with OpenMP + MPI | C, OpenMP, MPI |
+| [hyper-motivation-experiments](https://github.com/Nahom32/hyper-motivation-experiments) | Hypermotivation experiments — starter code for MeTTa cognitive architecture | MeTTa |
+| [arxiv-bot](https://github.com/Nahom32/arxiv-bot) | Telegram bot that notifies subscribers of interesting arXiv papers based on their preferences | Python, Telegram API |
+| [GridRL](https://github.com/Nahom32/GridRL) | Reinforcement learning in a grid world with policy and value iteration | Python |
+| [CKY-Parser](https://github.com/Nahom32/CKY-Parser) | CKY parsing for English using probabilistic context-free grammars | Python, Jupyter Notebook |
+| [EvoFederatedLearning](https://github.com/Nahom32/EvoFederatedLearning) | Hybrid experiments combining evolutionary and connectionist federated learning (FedAvg, FedProx) | Python, Jupyter Notebook |
+| [NARS-Trader](https://github.com/Nahom32/NARS-Trader) | A trading system implementation built on NARS | Python |
+| [Resonance-Experiments](https://github.com/Nahom32/Resonance-Experiments) | Research experiments for Resonance Labs | Jupyter Notebook |
 
 ---
 
